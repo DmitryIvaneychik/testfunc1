@@ -1,0 +1,9 @@
+{
+  "name": "testfunc1",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "dependencies": {
+    "moment": "*"
+  }
+}
